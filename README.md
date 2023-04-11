@@ -1,2 +1,1 @@
-# snake_game
-clássico jogo da cobrinha
+# clássico jogo da cobrinha
